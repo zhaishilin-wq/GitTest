@@ -7,5 +7,6 @@ public class GetTest {
         System.out.println("hello github1");
         System.out.println("hello github1  hot-fix");
         System.out.println("hello github1");
+        System.out.println("hello github1  push");
     }
 }
